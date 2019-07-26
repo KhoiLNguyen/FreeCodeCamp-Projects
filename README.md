@@ -10,4 +10,5 @@ Web Projects from FreeCodeCamp
    * Made landing page responsive
    * Might come back later for remodeling
 
-4. Documentation - Status: On-going...
+4. Documentation - Status: Finished
+5. My portfolio - Status: Pending
