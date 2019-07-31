@@ -1,0 +1,20 @@
+body {
+  background-color: #DE6449;
+}
+
+#quote-box i {
+  margin-right: 2px;
+}
+
+#quote-box {
+  background-color: grey;
+  height: 20vh;
+  padding: 5px 5px;
+  border-radius: 10px;
+  background-color: #FFFFF2;
+
+}
+
+.btn-purple {
+  background-color: #791E94;
+}
