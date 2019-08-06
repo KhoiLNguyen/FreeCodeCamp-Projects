@@ -12,3 +12,5 @@ Web Projects from FreeCodeCamp
 
 4. Documentation - Status: Finished
 5. My portfolio - Status: Pending
+6. Simple React Markdown Previewer - Status: Finished
+7. Build a Drum Machine - Status: Pending 08/05/2019
