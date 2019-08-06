@@ -12,4 +12,4 @@
    4. Finding relevants information that could have helped me finish this project faster.
 
 
-NOTE: For some reasons git didn't push the build folder up, you can view this project via this codepen link instead https://codepen.io/MisutiNeko/pen/bXagEN
+NOTE: For some reasons git didn't push the build folder up, you can view this project via this codepen link instead https://codepen.io/MisutiNeko/pen/bXagEN.
