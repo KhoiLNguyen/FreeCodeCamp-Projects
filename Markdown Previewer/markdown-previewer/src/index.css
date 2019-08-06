@@ -1,0 +1,44 @@
+body {
+  background-color: lightgray;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.editor {
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 5px 5px 10px 5px rgb(0,0,0,.6);
+}
+
+.editor h3 {
+  border-bottom: 1px solid black;
+}
+
+textarea {
+  height: 300px;
+  width: 500px;
+  border: none;
+}
+
+.preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#preview {
+  background-color: #fff;
+  box-shadow: 5px 5px 10px 5px rgb(0,0,0,.6);
+  padding: 10px 20px;
+  height: 900px;
+  overflow: auto;
+}
+
+.footer {
+  margin-top: 30px;
+}
