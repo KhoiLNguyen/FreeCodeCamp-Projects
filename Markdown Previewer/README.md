@@ -10,3 +10,6 @@
    2. Skim too fast through documentation without grasping the correct infomation (slowdown)
    3. Read the requirements carefully
    4. Finding relevants information that could have helped me finish this project faster.
+
+
+NOTE: For some reasons git didn't push the build folder up, you can view this project via this codepen link instead https://codepen.io/MisutiNeko/pen/bXagEN
